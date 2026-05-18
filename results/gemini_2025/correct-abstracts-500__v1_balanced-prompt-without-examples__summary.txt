@@ -1,0 +1,6 @@
+This paper screening took 445.6 seconds
+The screening included 500 papers, out of which 422 were correctly classified
+True positives: 8
+True negatives: 414
+False positives: 70
+False negatives: 8

@@ -1,0 +1,6 @@
+This paper screening took 2019.7 seconds and had a cost of 18.941 $
+The screening included 500 papers, out of which 423 were correctly classified
+True positives: 9
+True negatives: 414
+False positives: 70
+False negatives: 7

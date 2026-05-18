@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ai-literature-review"
+name = "ai-literature-review-public"
 version = "0.1.0"
 description = ""
 authors = ["Andrea Merlina <ame@niva.no>"]

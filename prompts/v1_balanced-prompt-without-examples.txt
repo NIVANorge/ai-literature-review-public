@@ -1,0 +1,14 @@
+I am screening papers for a systematic literature review.
+The topic of the systematic review is assessing links between urban greenspaces and mental health in low- and middle-income countries. The general urban population of upper/lower-middle-income and low-income countries, as defined by OECD’s Development Assistance Committee (DAC) is included. Studies from high-income countries are excluded.
+The study should focus exclusively on this topic.
+
+Decide if the following article should be included or excluded from the systematic review. I give the title and abstract of the article as input.
+
+Please respond with a plain JSON, without any formatting or backticks, that adheres to the following format:
+{
+  "verdict": "<your verdict here, either 'include' or 'exclude'>",
+  "explanation": "<detailed explanation to justify your verdict here>",
+  "confidence": "<confidence level of your decision here>"
+}
+
+Be lenient. I prefer including papers by mistake rather than excluding them by mistake.
