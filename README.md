@@ -55,3 +55,8 @@ Set provider credentials before running notebooks:
 
 - Notebooks are configured to use root-level datasets/prompts and write to `results/`.
 - Saved notebook outputs are cleared to keep the repo lighter and avoid stale run artifacts.
+
+## License
+
+- Code and notebooks: [MIT](./LICENSE)
+- Datasets, prompts, and benchmark outputs: [CC BY 4.0](./DATA_LICENSE.md)
